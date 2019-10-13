@@ -4,4 +4,4 @@ cmake_minimum_required(VERSION 3.10)
 
 # put it at the end
 add_subdirectory(cu_tutor_addition)
-add_subdirectory(cu_tutor_matmul)
+# add_subdirectory(cu_tutor_matmul)

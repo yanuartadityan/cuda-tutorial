@@ -1,20 +1,20 @@
-# CUDA Build with Modern CMAKE
-
 ## Overview
 
-This is my attempt on establishing full build CUDA project with modern CMAKE (>3.10)
+This is my attempt on establishing full build CUDA project with modern CMAKE (>3.10). If you are interested on C++ build with moder CMake, I have another [repository](https://github.com/yanuartadityan/cxx-tutorial) for it and it should serve as introduction before this one. 
 
 ## Working?
 
-Yes, it is working
+Yes, it is working fine. Even **cuda-gdb** is working fine for debugging. I am using Microsoft Visual Studio Code with these plugins:
 
-## What else?
+* C/C++
+* CMake
+* CMake Tools
 
-Soon, I'll add my build-chain for total workspace with VSCODE as IDE.
+for full IDE experience, including debugging.
 
-## Really?
+## What next?
 
-Yep! Even cuda-gdb is working 
+Soon, I'll combine both C++ and CUDA mixed projects with Modern CMake.
 
 ## What OS is this for?
 
